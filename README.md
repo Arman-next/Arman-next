@@ -17,9 +17,6 @@
   <a href="https://www.instagram.com/_armaan_.khan?igsh=N2FyenY5cm13ZGE4&utm_source=ig_contact_invite" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
   </a>
-  <a href="arman276khan@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
